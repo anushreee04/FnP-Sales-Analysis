@@ -15,3 +15,4 @@ The dashboard contains the answer to the following key business questions to hel
 9. Product Popularity by Occasion:
 
 # Dashboard Preview
+https://github.com/anushreee04/FnP-Sales-Analysis/blob/main/Fnp%20Sales%20Analysis%20Preview.pdf
