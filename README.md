@@ -44,6 +44,7 @@ The sales analysis highlights that festivals and special occasions significantly
 •	Birthday  
 •	Anniversary  
 •	Diwali and Holi (moderate contribution)  
+
 Insight: Occasion-based sales dominate the revenue chart. Raksha Bandhan and Valentine's Day especially generate substantial spikes, indicating strong consumer sentiment around gifting during cultural and romantic events.  
 
 5.2. Revenue by Category  
@@ -53,13 +54,15 @@ Top-performing categories include:
 •	Mugs  
 •	Plants  
 •	Soft Toys  
-•	Sweets  
+•	Sweets 
+
 Insight: The emotional and consumable nature of these items resonates with gift-giving occasions. There is consistent demand across edible products (cakes, sweets) and keepsakes (mugs, soft toys).  
 
 5.3. Revenue by Month  
 Revenue analysis over months shows clear seasonality. High-sales months include:   
 •	August to November (festival season)  
 •	February (Valentine’s month)  
+
 Insight: Seasonality influences purchasing decisions. Timely inventory buildup and promotional campaigns can enhance performance in these months.  
 ________________________________________
 
@@ -70,6 +73,7 @@ Top 5 Products by Revenue:
 3.	Harum Pack
 4.	Magnam Set
 5.	Quia Gift
+   
 Insight: Bundled and premium gift sets tend to outperform individual products. This aligns with customer preferences for ready-made gift solutions during peak occasions.
 ________________________________________
 
@@ -85,12 +89,14 @@ Top 10 Cities by Orders:
 8.	Imphal
 9.	Kavali
 10.	North Dumdum
+    
 Insight: The majority of sales are generated from Tier-2 and Tier-3 cities, highlighting FnP’s successful market penetration beyond metropolitan hubs. These regions represent potential growth centers and deserve localized campaigns.
 ________________________________________
 
 # 8.	Consumer Spending Behavior
 •	Average order value is approximately ₹3,520.98, reflecting mid-range gifting.   
-•	The absence of extremely low or high-value outliers suggests a well-balanced product mix catering to mass-market tastes.  
+•	The absence of extremely low or high-value outliers suggests a well-balanced product mix catering to mass-market tastes.
+
 Insight: There is scope to introduce loyalty programs, bulk order discounts, or personalization options to enhance consumer satisfaction and repeat sales.  
 ________________________________________
 
@@ -102,7 +108,8 @@ ________________________________________
 •	Inventory Planning: Align procurement with monthly revenue trends and seasonal demand peaks.  
 ________________________________________
 # 10.	Conclusion
-FnP has shown robust sales performance across varied occasions, product categories, and cities. With strategic alignment in marketing, product development, and regional targeting, the brand can further enhance its market share and consumer loyalty. Data-driven decisions based on this analysis can significantly optimize operations and drive future growth.________________________________________
+FnP has shown robust sales performance across varied occasions, product categories, and cities. With strategic alignment in marketing, product development, and regional targeting, the brand can further enhance its market share and consumer loyalty. Data-driven decisions based on this analysis can significantly optimize operations and drive future growth.
+________________________________________  
 End of Report
 
 
